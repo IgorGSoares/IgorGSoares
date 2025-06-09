@@ -2,8 +2,7 @@
 
 - 🔭 Working with Unity Engine
 - 🌱 Studing Godot Engine and improving my art skills
-- 📫 You can talk to me on my email: igorgilbertosoares@gmail.com
-- 🗂️ You can also check my Linktr.ee for more: https://linktr.ee/IgorGSoares
+- 🗂️ You can check my Linktr.ee for more: https://linktr.ee/IgorGSoares
 - ⚡ Fun fact: During my internship, on of the games I helpt to develop won a "Best Game" trophy 
 
 ##
