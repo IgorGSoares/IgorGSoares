@@ -1,15 +1,33 @@
-# Grettings! I'm Igor Gilberto Soares 👋
+# Grettings! I'm **Igor**, nice to meet you 👋
+
+I'm a programmer, game developer and 2D artist who loves make games and be more creative.
 
 - 🔭 Working with Unity Engine
 - 🌱 Studing Godot Engine and improving my art skills
 - 🗂️ You can check my Linktr.ee for more: https://linktr.ee/IgorGSoares
-- ⚡ Fun fact: During my internship, on of the games I helpt to develop won a "Best Game" trophy 
+- ⚡ Fun fact: During my internship, on of the games I helpt to develop won a "Best Game" trophy
+
+This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IgorGSoares=anuraghazra&show_icons=true&theme=radical)
+<!--github stats-->
+<!--
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
+-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/IgorGSoares">
+   <div style="display: inline_block">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IgorGSoares&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
 
-**MAIN TOOLS**
+
+
+<!--Images of my main tools and languages-->
+<!--**MAIN TOOLS**-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -20,6 +38,8 @@
 
 ##
 
+<!--Images of other tools and languages I previously worked-->
+<!--
 **OTHER TOOLS**
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +47,7 @@
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
 </div>
+-->
 
 <!--
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,8 +55,7 @@
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
-##
-
+<!--My social medias-->
 <div> 
   <a href="https://www.instagram.com/igorgilbertosoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/501864910049771520" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -47,6 +67,7 @@
   -->
 </div>
 
+<!--Da cute snake-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
