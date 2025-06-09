@@ -7,6 +7,8 @@
 
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IgorGSoares=anuraghazra&show_icons=true&theme=radical)
+
 **MAIN TOOLS**
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
