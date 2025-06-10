@@ -30,6 +30,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg">
   <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <!--<img align="center" alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>-->
 </div>
 
 ### Previously worked with:
