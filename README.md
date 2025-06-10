@@ -8,7 +8,7 @@ I'm a programmer, game developer and 2D artist who loves make games and be more 
 
 This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
 
-## Stats
+## 📊 Stats
 <!--
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
@@ -21,7 +21,7 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-## Skills
+## ⚛️ Skills
 ### Languages and Tools:
 <div display: inline_block>
   <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
@@ -47,7 +47,7 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
-## My Links
+## 🌐 My Links
 <div>
    <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
    <a href="https://igorgilbertosoares.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
