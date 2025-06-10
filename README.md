@@ -9,8 +9,7 @@ I'm a programmer, game developer and 2D artist who loves make games and be more 
 
 This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
 
-##STATS
-<!--github stats-->
+## Stats
 <!--
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
@@ -23,11 +22,9 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-
-
-<!--Images of my main tools and languages-->
-<!--**MAIN TOOLS**-->
-<div style="display: inline_block"><br>
+## Skills
+### Languages and Tools:
+<div display: inline_block>
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -35,18 +32,13 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div>
 
-##
-
-<!--Images of other tools and languages I previously worked-->
-<!--
-**OTHER TOOLS**
-<div style="display: inline_block"><br>
+### Previously worked with:
+<div display: inline_block>
   <img align="center" alt="Rafa-Js" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
   <img align="center" alt="Rafa-Js" height="65" width="65" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
 </div>
--->
 
 <!--
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -54,6 +46,7 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
+## Contacts
 <!--My social medias-->
 <div> 
   <a href="https://www.instagram.com/igorgilbertosoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
