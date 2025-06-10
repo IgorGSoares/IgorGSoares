@@ -25,20 +25,21 @@ This GitHub repository serves as a space where I share some of my projects and l
 ## Skills
 ### Languages and Tools:
 <div display: inline_block>
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-  <!--<img align="center" alt="GDScript" height="52" width="62" src="icons/godot.svg"></a>-->
+  <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img align="center" alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg">
+  <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png">
+  <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png">
 </div>
 
 ### Previously worked with:
 <div display: inline_block>
-  <img align="center" alt="Rafa-Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-  <img align="center" alt="Rafa-Js" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
+  <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
+  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+  <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
 </div>
 
 <!--
@@ -48,19 +49,14 @@ This GitHub repository serves as a space where I share some of my projects and l
   -->
 
 ## Contacts
-<!--My social medias-->
 <div> 
   <a href="https://www.instagram.com/igorgilbertosoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/501864910049771520" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:igorgilbertosoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-gilberto-soares-004651232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  -->
 </div>
 
-<!--Da cute snake-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
