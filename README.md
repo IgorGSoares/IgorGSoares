@@ -9,14 +9,12 @@ I'm a programmer, game developer and 2D artist who loves make games and be more 
 
 This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
 
-##
-
+##STATS
 <!--github stats-->
 <!--
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
 -->
-
 <div align="center" style="display: inline">
    <a href="https://github.com/IgorGSoares">
    <div style="display: inline_block">
