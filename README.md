@@ -1,6 +1,10 @@
 <!--# Grettings! I'm **Igor**, nice to meet you 👋-->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&width=435&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you)](https://git.io/typing-svg)-->
 
+[![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
+[![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
+<!--![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)-->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
 </div>
@@ -19,10 +23,6 @@ This GitHub repository serves as a space where I share some of my projects and l
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
 -->
 
-[![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
-[![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
-
-
 <div align="center" style="display: inline">
    <a href="https://github.com/IgorGSoares">
    <div style="display: inline_block">
@@ -31,25 +31,31 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
+
 ## 🛠️ Skills
 ### Languages and Tools:
+<div align="center">
+  <img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">
+  <!--<img align="right" width="22%" src="imgs/octocat-controll.png">-->
+</div>
+
 <div display: inline_block>
-  <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-  <img align="center" alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg">
-  <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-  <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png">
-  <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png">
+  <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
+  <img align="center" alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" hspace="7.5">
+  <img align="center" alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" hspace="7.5">
+  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
+  <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
+  <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
+  <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
 </div>
 
 ### Previously worked with:
 <div display: inline_block>
-  <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-  <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
-  <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png">
+  <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
+  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" hspace="7.5">
+  <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
+  <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
+  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
 </div>
 
 <!--
