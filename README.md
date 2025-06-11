@@ -60,7 +60,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
-  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
+  <img align="center" alt="Autodesk" height="45" width="45" src="icons/autodesk.png" hspace="7.5">
 </div>
 
 ### Currently learning:
@@ -91,7 +91,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 
 
-## 🎮 Game Accounts
+## 🎮 Play Games On
 <div align="center">
    <a href="https://psnprofiles.com/seraosgil"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
    <a href="https://steamcommunity.com/profiles/76561199038072839/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
