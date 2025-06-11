@@ -39,8 +39,9 @@ This GitHub repository serves as a space where I share some of my projects and l
 ### Languages and Tools:
 
 <div align="center">
-  <img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">
+  <!--<img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">-->
   <!--<img align="right" width="22%" src="imgs/octocat-controll.png">-->
+  <img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
 </div>
 
 <div display: inline_block>
@@ -51,6 +52,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
   <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
   <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
+  <img align="center" alt="Shotcut" height="45" width="45" src="icons/shotcut-logo-512x512.png" hspace="7.5">
 </div>
 
 ### Previously worked with:
@@ -58,6 +60,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
+  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
 </div>
 
 ### Currently learning:
@@ -87,14 +90,21 @@ This GitHub repository serves as a space where I share some of my projects and l
 </div>
 
 
+
+## 🎮 Game Accounts
+<div align="center">
+   <a href="https://psnprofiles.com/seraosgil"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
+   <a href="https://steamcommunity.com/profiles/76561199038072839/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
+   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--## 🎮 Game Accounts-->
-
 
 <!--Cool effects
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
