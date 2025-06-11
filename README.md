@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
 </div>
 
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>-->
 
 I'm a programmer, game developer and 2D artist who loves make games and be more creative.
 
@@ -18,8 +17,6 @@ I'm a programmer, game developer and 2D artist who loves make games and be more 
 - ⚡ Fun fact: During my internship, on of the games I helpt to develop won a "Best Game" trophy
 
 This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
-
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>-->
 
 ## 📊 Stats
 <!--
@@ -35,10 +32,12 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>-->
+  <img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">
+
 
 ## 🛠️ Skills
 ### Languages and Tools:
+
 <div align="center">
   <img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">
   <!--<img align="right" width="22%" src="imgs/octocat-controll.png">-->
@@ -69,8 +68,6 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
-<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>-->
-
 ## 🌐 Links
 <div align="center">
    <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
@@ -93,3 +90,11 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--## 🎮 Game Accounts-->
+
+
+<!--Cool effects
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+-->
