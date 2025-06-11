@@ -13,6 +13,11 @@ This GitHub repository serves as a space where I share some of my projects and l
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
 -->
+
+[![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
+[![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
+
+
 <div align="center" style="display: inline">
    <a href="https://github.com/IgorGSoares">
    <div style="display: inline_block">
@@ -21,7 +26,7 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-## ⚛️ Skills
+## 🛠️ Skills
 ### Languages and Tools:
 <div display: inline_block>
   <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
@@ -39,6 +44,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
+  <img align="center" alt="PaintNet" height="45" width="45" src="icons/krita.png">
 </div>
 
 <!--
