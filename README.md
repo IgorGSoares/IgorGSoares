@@ -3,7 +3,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
 [![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
-<!--![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)-->
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
@@ -64,7 +64,7 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
-## 🌐 My Links
+## 🌐 Links
 <div align="center">
    <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
    <a href="https://igorgilbertosoares.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
