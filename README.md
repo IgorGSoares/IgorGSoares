@@ -44,7 +44,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
-  <img align="center" alt="PaintNet" height="45" width="45" src="icons/krita.png">
+  <img align="center" alt="Krita" height="45" width="45" src="icons/krita.png">
 </div>
 
 <!--
