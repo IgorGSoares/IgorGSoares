@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>-->
 
 I'm a programmer, game developer and 2D artist who loves make games and be more creative.
 
@@ -92,6 +92,4 @@ This GitHub repository serves as a space where I share some of my projects and l
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
