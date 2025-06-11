@@ -39,7 +39,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 ### Languages and Tools:
 
 <div align="center">
-  <img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">
+  <img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">
   <!--<img align="right" width="22%" src="imgs/octocat-controll.png">-->
 </div>
 
@@ -56,12 +56,15 @@ This GitHub repository serves as a space where I share some of my projects and l
 ### Previously worked with:
 <div display: inline_block>
   <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
-  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" hspace="7.5">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
-  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
 </div>
 
+### Currently learning:
+<div display: inline_block>
+  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" hspace="7.5">
+  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
+</div>
 <!--
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
