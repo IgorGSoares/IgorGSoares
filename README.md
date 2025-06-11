@@ -32,7 +32,7 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-  <img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">
+<!--<img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">-->
 
 
 ## 🛠️ Skills
