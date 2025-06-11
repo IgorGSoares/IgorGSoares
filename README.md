@@ -1,4 +1,9 @@
-# Grettings! I'm **Igor**, nice to meet you 👋
+<!--# Grettings! I'm **Igor**, nice to meet you 👋-->
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&width=435&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you)](https://git.io/typing-svg)-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
+</div>
 
 I'm a programmer, game developer and 2D artist who loves make games and be more creative.
 
