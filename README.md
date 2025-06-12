@@ -110,8 +110,13 @@ This GitHub repository serves as a space where I share some of my projects and l
 </div>
 
 
+<!--Cool effects
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+-->
 
-
+<!--SNAKE-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake-dark.svg">
@@ -120,14 +125,9 @@ This GitHub repository serves as a space where I share some of my projects and l
 </picture>
 
 
+<!--PACMAN-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
 </picture>
-
-<!--Cool effects
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
--->
