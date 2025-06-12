@@ -12,11 +12,16 @@
 
 I'm a programmer, game developer and 2D artist who loves make games and be more creative.
 
-- 🔭 Working with Unity Engine
-- 🌱 Studing Godot Engine and improving my art skills
-- ⚡ Fun fact: During my internship, on of the games I helpt to develop won a "Best Game" trophy
+- 💼 I have been working with `Unity Engine` since 2022
+- 🎓 Technologician degree on `Digital Games` at Unisinos in 2023
+- 🌱 Studing other engines and improving my own skills
+- 📋 Responsible, dedicated, and good with team work
+- 🏆 During my internship in 2023, one of the games I helpt to develop won a "Best Game" trophy
 
-This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my own skills. Please feel free to explore and follow my progress! 
+This GitHub repository serves as a space where I share some of my projects and learning experiences while I'm improving my skills. Please feel free to explore and follow my progress! 
+
+
+
 
 ## 📊 Stats
 <!--
@@ -32,7 +37,8 @@ This GitHub repository serves as a space where I share some of my projects and l
    </div>
 </div>
 
-<!--<img align="right" alt="Squid" height="220" width="220" src="imgs/octocat-controll.png">-->
+
+
 
 
 ## 🛠️ Skills
@@ -48,9 +54,9 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
   <img align="center" alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" hspace="7.5">
   <img align="center" alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" hspace="7.5">
-  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
   <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
   <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
+  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
   <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
   <img align="center" alt="Shotcut" height="45" width="45" src="icons/shotcut-logo-512x512.png" hspace="7.5">
 </div>
@@ -74,6 +80,9 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 
+
+
+
 ## 🌐 Links
 <div align="center">
    <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
@@ -91,6 +100,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 
 
+
 ## 🎮 Play Games On
 <div align="center">
    <a href="https://psnprofiles.com/seraosgil"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
@@ -100,10 +110,20 @@ This GitHub repository serves as a space where I share some of my projects and l
 </div>
 
 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
 </picture>
 
 <!--Cool effects
