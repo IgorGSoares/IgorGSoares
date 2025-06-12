@@ -22,7 +22,6 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 
 
-
 ## 📊 Stats
 <!--
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
@@ -109,6 +108,8 @@ This GitHub repository serves as a space where I share some of my projects and l
    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </div>
 
+
+#
 
 <!--Cool effects
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
