@@ -124,6 +124,7 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/github-contribution-grid-snake.svg">
 </picture>
 -->
+<!--<img src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/snake.svg" alt="Snake animation"/> -->
 
 <!--PACMAN-->
 <picture>
