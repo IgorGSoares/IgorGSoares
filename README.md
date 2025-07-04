@@ -1,8 +1,11 @@
 <!--# Grettings! I'm **Igor**, nice to meet you 👋-->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&width=435&lines=Grettings!;I'm+Igor%2C+nice+to+meet+you)](https://git.io/typing-svg)-->
 
+<!--
 [![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
 [![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
+-->
+
 <!--![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)-->
 
 <div align="center">
