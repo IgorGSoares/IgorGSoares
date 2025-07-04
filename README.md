@@ -43,11 +43,11 @@ This GitHub repository serves as a space where I share some of my projects and l
 ## 🛠️ Skills
 ### Languages and Tools:
 
-<div align="center">
+<!--<div align="center">
   <!--<img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">-->
   <!--<img align="right" width="22%" src="imgs/octocat-controll.png">-->
-  <img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
-</div>
+  <!--<img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
+<!--</div>-->
 
 <div display: inline_block>
   <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
