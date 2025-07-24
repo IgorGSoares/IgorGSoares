@@ -26,11 +26,11 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 
 ## 📊 Stats
-
+<!--
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGSoares&icons=true&theme=aura_dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&theme=aura_dark&layout=compact)
+-->
 
-<!--
 <div align="center" style="display: inline">
    <a href="https://github.com/IgorGSoares">
    <div style="display: inline_block">
@@ -38,7 +38,7 @@ This GitHub repository serves as a space where I share some of my projects and l
       <img height="200em" width="40.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGSoares&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
--->
+
 
 
 
@@ -48,8 +48,8 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 <div align="center">
   <!--<img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">-->
-  <img align="right" width="33%" src="imgs/octocat-controll.png">
-  <!--<img align="right" alt="" height="300px" src="gifs/avatar_2.gif">-->
+  <!--<img align="right" width="33%" src="imgs/octocat-controll.png">-->
+  <img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
 </div>
 
 <div display: inline_block>
