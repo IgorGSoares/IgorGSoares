@@ -131,8 +131,10 @@ This GitHub repository serves as a space where I share some of my projects and l
 <!--<img src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/snake.svg" alt="Snake animation"/> -->
 
 <!--PACMAN-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
 </picture>
+-->
