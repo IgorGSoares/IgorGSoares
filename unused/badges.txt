@@ -1,0 +1,6 @@
+<!--
+[![Years Badge](https://badges.pufler.dev/years/IgorGSoares)](https://badges.pufler.dev/years/IgorGSoares?_=0)
+[![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
+-->
+
+<!--![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)-->
