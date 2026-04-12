@@ -6,8 +6,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/IgorGSoares)](https://badges.pufler.dev/repos/IgorGSoares)
 -->
 
-<!--![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=IgorGSoares.visitor-badge)-->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&center=true&pause=1000&duration=3500&width=475&height=60&lines=Greettings!;I'm+Igor%2C+nice+to+meet+you!" alt="Typing SVG"/>
 </div>
@@ -114,12 +112,6 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 #
 
-<!--Cool effects
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
--->
-
 <!--SNAKE-->
 <!--
 <picture>
@@ -129,12 +121,3 @@ This GitHub repository serves as a space where I share some of my projects and l
 </picture>
 -->
 <!--<img src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/snake.svg" alt="Snake animation"/> -->
-
-<!--PACMAN-->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorGSoares/IgorGSoares/output/pacman-contribution-graph.svg">
-</picture>
--->
