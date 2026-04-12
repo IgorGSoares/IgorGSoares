@@ -102,7 +102,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 
 
-
+<!--
 ## 🎮 Play Games On
 <div align="center">
    <a href="https://psnprofiles.com/seraosgil"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
@@ -110,7 +110,7 @@ This GitHub repository serves as a space where I share some of my projects and l
    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </div>
-
+-->
 
 #
 
