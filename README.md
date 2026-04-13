@@ -98,18 +98,6 @@ This GitHub repository serves as a space where I share some of my projects and l
   <a href="https://www.facebook.com/igorgilberto.soares" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
 
-
-
-<!--
-## 🎮 Play Games On
-<div align="center">
-   <a href="https://psnprofiles.com/seraosgil"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
-   <a href="https://steamcommunity.com/profiles/76561199038072839/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
-   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
-</div>
--->
-
 #
 
 <!--SNAKE-->
