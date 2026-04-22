@@ -50,37 +50,60 @@ This GitHub repository serves as a space where I share some of my projects and l
   <img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
 </div>
 
-<div display: inline_block>
-  <img align="center" alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
-  <img align="center" alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" hspace="7.5">
-  <img align="center" alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" hspace="7.5">
-  <img align="center" alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
-  <img align="center" alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
-  <img align="center" alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
-  <img align="center" alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
-  <img align="center" alt="Shotcut" height="45" width="45" src="icons/shotcut-logo-512x512.png" hspace="7.5">
+<!--
+<div align="inline_block">
+  <img alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
+  <img alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" hspace="7.5">
+  <img alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" hspace="7.5">
+  <img alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
+  <img alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
+  <img alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
+  <img alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
+  <img alt="Shotcut" height="45" width="45" src="icons/shotcut-logo-512x512.png" hspace="7.5">
 </div>
+-->
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-019DF4?style=for-the-badge&logo=VSCode&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
+![Draw.IO](https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Paint.NET](https://img.shields.io/badge/Paint.Net-1A1F71.svg?style=for-the-badge&logo=Paint.Net&logoColor=white)
+![Shotcut](https://img.shields.io/badge/ShotCut-58B1E4.svg?style=for-the-badge&logo=Shotcut&logoColor=white)
+
+
 
 ### Previously worked with:
+<!--
 <div display: inline_block>
   <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
   <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
   <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
   <img align="center" alt="Autodesk" height="45" width="45" src="icons/autodesk.png" hspace="7.5">
 </div>
+-->
+![Renpy](https://img.shields.io/badge/Ren'Py-FF7F7F.svg?style=for-the-badge&logo=Ren'Py&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Gimp](https://img.shields.io/badge/GIMP-8C8073.svg?style=for-the-badge&logo=GIMP&logoColor=white)
+![Autodesk Sketchbook](https://img.shields.io/badge/Autodesk_Sketchbook-EF3346.svg?style=for-the-badge&logo=Autodesk_Sketchbook&logoColor=white)
+
 
 ### Currently learning:
+<!--
 <div display: inline_block>
   <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" hspace="7.5">
   <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
 </div>
+-->
 <!--
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
 
-<!--[![Made with Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity)](https://unity3d.com)-->
 
 
 ## 🌐 Links
