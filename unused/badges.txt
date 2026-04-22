@@ -16,3 +16,69 @@
    <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
 </div>
 -->
+
+
+
+## 🛠️ Skills
+### Languages and Tools:
+
+<div align="center">
+  <!--<img align="right" alt="Squid" height="300" width="300" src="imgs/octocat-controll.png">-->
+  <!--<img align="right" width="33%" src="imgs/octocat-controll.png">-->
+  <img align="right" alt="" height="300px" src="gifs/avatar_2.gif">
+</div>
+
+<!--
+<div align="inline_block">
+  <img alt="Unity" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" hspace="7.5">
+  <img alt="C#" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" hspace="7.5">
+  <img alt="VSCode" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" hspace="7.5">
+  <img alt="Trello" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" hspace="7.5">
+  <img alt="DrawIO" height="45" width="45" src="icons/drawio.png" hspace="7.5">
+  <img alt="Inkscape" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" hspace="7.5">
+  <img alt="PaintNet" height="45" width="45" src="icons/paintnet.png" hspace="7.5">
+  <img alt="Shotcut" height="45" width="45" src="icons/shotcut-logo-512x512.png" hspace="7.5">
+</div>
+-->
+
+### Previously worked with:
+<!--
+<div display: inline_block>
+  <img align="center" alt="JS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="7.5">
+  <img align="center" alt="Renpy" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" hspace="7.5">
+  <img align="center" alt="Gimp" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" hspace="7.5">
+  <img align="center" alt="Autodesk" height="45" width="45" src="icons/autodesk.png" hspace="7.5">
+</div>
+-->
+
+
+### Currently learning:
+<!--
+<div display: inline_block>
+  <img align="center" alt="Godot" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" hspace="7.5">
+  <img align="center" alt="Krita" height="45" width="45" src="icons/Krita-01.png" hspace="7.5">
+</div>
+-->
+<!--
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  -->
+
+
+## 🌐 Links
+<!--
+<div align="center">
+   <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+   <a href="https://igorgilbertosoares.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+   <a href="https://linktr.ee/IgorGSoares"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+</div>
+
+<div align="center"> 
+  <a href="https://www.instagram.com/igorgilbertosoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/501864910049771520" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:igorgilbertosoares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/igor-gilberto-soares-004651232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/igorgilberto.soares" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>
+-->
