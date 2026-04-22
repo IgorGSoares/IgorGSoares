@@ -105,8 +105,8 @@ This GitHub repository serves as a space where I share some of my projects and l
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 
-
 ## 🌐 Links
+<!--
 <div align="center">
    <a href="https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
    <a href="https://igorgilbertosoares.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
@@ -120,6 +120,16 @@ This GitHub repository serves as a space where I share some of my projects and l
   <a href="https://www.linkedin.com/in/igor-gilberto-soares-004651232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/igorgilberto.soares" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
+-->
+[![Notion](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://round-titanium-3c1.notion.site/I-m-Igor-Soares-173396f8916c80cdbfadc163b258671c)
+[![Itch.IO](https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://igorgilbertosoares.itch.io/)
+[![Linktr.ee](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/IgorGSoares)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/igorgilbertosoares)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/501864910049771520)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:igorgilbertosoares@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-gilberto-soares-004651232/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/igorgilberto.soares)
+
 
 #
 
