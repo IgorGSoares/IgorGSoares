@@ -65,7 +65,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-019DF4?style=for-the-badge&logo=VSCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![Draw.IO](https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
@@ -102,7 +102,7 @@ This GitHub repository serves as a space where I share some of my projects and l
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF.svg?style=for-the-badge&logo=Krita&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 
 
