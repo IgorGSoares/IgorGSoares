@@ -11,7 +11,7 @@
 </div>
 
 
-I'm a programmer, game developer and 2D artist who loves make games and be more creative.
+I'm a programmer and game developer who loves make games and be more creative.
 
 - 💼 I have been working with `Unity Engine` since 2022
 - 🎓 Technologician degree on `Digital Games` at Unisinos in 2023
