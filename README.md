@@ -64,7 +64,7 @@ This GitHub repository serves as a space where I share some of my projects and l
 ### Previously worked with:
 
 ![Renpy](https://img.shields.io/badge/Ren'Py-FF7F7F.svg?style=for-the-badge&logo=Ren'Py&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+<!--![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)-->
 ![Gimp](https://img.shields.io/badge/GIMP-8C8073.svg?style=for-the-badge&logo=GIMP&logoColor=white)
 ![Autodesk Sketchbook](https://img.shields.io/badge/Autodesk_Sketchbook-EF3346.svg?style=for-the-badge&logo=Autodesk_Sketchbook&logoColor=white)
 
